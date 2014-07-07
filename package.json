@@ -1,9 +1,9 @@
 {
   "name": "todo.js",
   "description": "A command-line todo appliccation",
-  "author": "Okulbilisim <bilgi@okulbilisim.com>",
+  "author": "Okulbilisim <info@okulbilisim.com>",
   "dependencies": {
-    "commander": ">= 2.2.0",
+    "commander": ">= 2.2.0"
   },
   "engine": ">= node 0.6.x"
 }
